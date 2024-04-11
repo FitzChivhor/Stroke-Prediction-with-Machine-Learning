@@ -16,7 +16,9 @@ Results
 After extensive analysis and optimization, the Random Forest model with SMOTE sampling emerged as the best-performing model, achieving an impressive F1-score of 0.9901. This model demonstrates a strong ability to predict stroke occurrence while maintaining high accuracy and explainability.
 
 Impact
+
 The stroke prediction model developed in this project has the potential to significantly improve patient care and outcomes by enabling healthcare professionals to identify high-risk patients and implement preventive measures. By integrating this model into clinical decision-making processes, healthcare providers can optimize resource allocation, personalize treatment plans, and ultimately reduce the incidence and severity of strokes.
 
 Future Directions
+
 To further enhance the model's performance and usability, we recommend collecting additional relevant clinical data, exploring feature interactions, validating the model on external datasets, and developing a user-friendly interface for seamless integration into clinical workflows.
